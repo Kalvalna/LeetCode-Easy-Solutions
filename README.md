@@ -4,6 +4,6 @@ Solving some of the problems on LeetCode in order to learn C# skills. Starting w
 
 Currently Solved:
 
-1. Two Sum
-7. Reverse Integer
-13. Roman to Integer
+1: Two Sum
+7: Reverse Integer
+13: Roman to Integer
