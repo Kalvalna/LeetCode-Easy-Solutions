@@ -7,3 +7,4 @@ Currently Solved:
 1: Two Sum  
 7: Reverse Integer  
 13: Roman to Integer  
+14: Longest Common Prefix
